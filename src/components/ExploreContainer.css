@@ -22,3 +22,16 @@
 #container a {
   text-decoration: none;
 }
+
+.tuts {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.home {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
